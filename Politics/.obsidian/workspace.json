@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "b229c3125e375c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "c13257e0ae9bb92c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "278be47737750742",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "马克思主义基本原理/02.马克思主义哲学.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d876e9567c2a4661",
+    "type": "split",
+    "children": [
+      {
+        "id": "e99ca8b9c3d5d64f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3541a3ad22d5bd7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34153f42540ebf77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee1e7cd6e9162c97",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3565f912fe9fb95c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f604fff1075752e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29433727feb4d7e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "马克思主义基本原理/02.马克思主义哲学.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92f6f415d14e5e2c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "马克思主义基本原理/02.马克思主义哲学.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8f71b7d0b4a2d04",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "246514347f6cd57a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "马克思主义基本原理/02.马克思主义哲学.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3541a3ad22d5bd7f",
+  "lastOpenFiles": [
+    "马克思主义基本原理/01.导论.md",
+    "马克思主义基本原理/02.马克思主义哲学.md",
+    "马克思主义基本原理",
+    "Welcome.md"
+  ]
+}

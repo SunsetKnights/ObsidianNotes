@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "2b650f4ca73411d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9c28036a72b9dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6d8c1fa8d1a5642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "一元函数微分学的应用/最值和取值范围.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec7ba0e4de985cd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "函数连续与极限/基础恒等式.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "129b8e893432fe6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "函数连续与极限/常用函数及其图像.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ca6e249d6695a13",
+    "type": "split",
+    "children": [
+      {
+        "id": "0abb44c524a15974",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5c2edf9f6830e65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "376ee0874b27ea27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ce7acf05ec6f3826",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fad895e2966f4d56",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f127fc81169b621",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c244cc2380e92ed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "函数连续与极限/常用函数及其图像.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53079b9c70c37fb7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "函数连续与极限/常用函数及其图像.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03c8733e2ee8fc56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d8e57c1801389fc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "函数连续与极限/常用函数及其图像.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "129b8e893432fe6f",
+  "lastOpenFiles": [
+    "一元函数微分学的应用/渐近线.md",
+    "一元函数微分学的应用/极值.md",
+    "一元函数微分学的应用/凹凸性和拐点.md",
+    "一元函数微分学的应用/最值和取值范围.md",
+    "一元函数微分学的应用/曲率和曲率半径.md",
+    "一元函数微分学/一元函数微分学的计算.md",
+    "一元函数微分学/求导公式.md",
+    "函数连续与极限/三角函数特殊值.md",
+    "函数连续与极限/极限的等价替换.md",
+    "函数连续与极限/基础恒等式.md",
+    "函数连续与极限/常用函数及其图像.md",
+    "一元函数微分学的应用/作函数图像.md",
+    "function_graphics/desmos-graph.svg",
+    "function_graphics/function_const.svg",
+    "function_graphics",
+    "function_graph/function_sin.svg",
+    "function_graph/function_const.svg",
+    "function_graph",
+    "().md",
+    "新建文件夹",
+    "函数连续与极限/常用函数的泰勒展开式.md",
+    "一元函数微分学/导数.md",
+    "一元函数微分学的应用",
+    "一元函数微分学",
+    "未命名 1.md",
+    "函数连续与极限",
+    "Welcome.md"
+  ]
+}
