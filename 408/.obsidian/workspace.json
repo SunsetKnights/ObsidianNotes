@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd6897e65678f8e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机组成原理/存储系统.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/数据的表示和运算.md",
+                "file": "计算机组成原理/存储系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/数据的表示和运算.md",
+                "file": "计算机组成原理/存储系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/数据的表示和运算.md"
+                "file": "计算机组成原理/存储系统.md"
               }
             }
           }
@@ -146,11 +159,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea5f03f7359dad98",
+  "active": "dd6897e65678f8e0",
   "lastOpenFiles": [
-    "计算机组成原理/计算机系统概述.md",
     "计算机组成原理/数据的表示和运算.md",
-    "附件/Pasted image 20240605214943.png",
+    "附件/IEEE 754标准.png",
+    "附件/固态硬盘导图.png",
+    "计算机组成原理/存储系统.md",
+    "附件/Pasted image 20240613175803.png",
+    "计算机组成原理/计算机系统概述.md",
     "附件",
     "操作系统/操作系统概述.md",
     "计算机组成原理",

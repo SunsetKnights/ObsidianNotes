@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0070a31293bda72d",
+        "id": "52cc400390eeefae",
         "type": "tabs",
         "children": [
           {
-            "id": "e576156db96816ab",
+            "id": "83b9ccfbcc3aaccc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "一元函数微分学的应用/中值定理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d87eca911aeb0a43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "一元函数微分学的应用/微分等式与微分不等式.md",
+                "file": "常见不等式.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "一元函数微分学的应用/微分等式与微分不等式.md",
+                "file": "常见不等式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "一元函数微分学的应用/微分等式与微分不等式.md",
+                "file": "常见不等式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "一元函数微分学的应用/微分等式与微分不等式.md"
+                "file": "常见不等式.md"
               }
             }
           }
@@ -159,24 +146,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d87eca911aeb0a43",
+  "active": "83b9ccfbcc3aaccc",
   "lastOpenFiles": [
-    "一元函数微分学的应用/最值和取值范围.md",
-    "一元函数微分学的应用/微分等式与微分不等式.md",
-    "一元函数微分学的应用/极值.md",
-    "一元函数微分学的应用/渐近线.md",
-    "一元函数微分学的应用/中值定理.md",
-    "一元函数微分学/一元函数微分学的计算.md",
-    "未命名",
-    "函数连续与极限/常用函数的泰勒展开式.md",
-    "一元函数微分学的应用/凹凸性和拐点.md",
-    "一元函数微分学的应用/作函数图像.md",
-    "一元函数微分学的应用/曲率和曲率半径.md",
-    "函数连续与极限/常用函数及其图像.md",
+    "一元函数积分学/定积分.md",
     "一元函数微分学/求导公式.md",
-    "函数连续与极限/三角函数特殊值.md",
+    "一元函数微分学/导数与微分.md",
+    "一元函数积分学/不定积分.md",
+    "一元函数微分学/一元函数微分学的计算.md",
+    "常见不等式.md",
+    "一元函数微分学的应用/微分等式与微分不等式.md",
+    "一元函数微分学的应用/曲率和曲率半径.md",
+    "一元函数微分学的应用/渐近线.md",
+    "一元函数微分学的应用/极值.md",
+    "一元函数微分学的应用/凹凸性和拐点.md",
+    "一元函数微分学的应用/最值和取值范围.md",
+    "一元函数微分学的应用/中值定理.md",
+    "三角函数特殊值.md",
+    "常用函数的泰勒展开式.md",
     "函数连续与极限/极限的等价替换.md",
-    "函数连续与极限/基础恒等式.md",
+    "基础恒等式.md",
+    "常用函数及其图像.md",
+    "一元函数积分学",
+    "一元函数微分学的应用/作函数图像.md",
     "function_graphics/desmos-graph.svg",
     "function_graphics/function_const.svg",
     "function_graphics",
@@ -185,7 +176,6 @@
     "function_graph",
     "().md",
     "新建文件夹",
-    "一元函数微分学/导数.md",
     "一元函数微分学的应用",
     "一元函数微分学",
     "未命名 1.md",
